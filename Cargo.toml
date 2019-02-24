@@ -1,0 +1,9 @@
+[package]
+name = "sokol-gfx"
+version = "0.1.0"
+authors = ["Alexis Sellier <alexis@cloudhead.io>"]
+edition = "2018"
+
+[build-dependencies]
+bindgen = "0.42.2"
+cc = "1.0.29"

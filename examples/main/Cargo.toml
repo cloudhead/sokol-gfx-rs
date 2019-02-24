@@ -1,0 +1,10 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["Alexis Sellier <alexis@cloudhead.io>"]
+edition = "2018"
+
+[dependencies]
+sokol-gfx = { path = "../../" }
+glutin = "*"
+gl = "*"
